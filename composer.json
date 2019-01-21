@@ -11,6 +11,6 @@
     "source": "http://cgit.drupalcode.org/jsonapi_extras_text_format"
   },
   "require": {
-    "drupal/jsonapi_extras": "^2.0@rc"
+    "drupal/jsonapi_extras": "^3.1"
   }
 }
