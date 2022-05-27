@@ -1,7 +1,7 @@
 name: 'Json api extras: Text format'
 type: module
 description: 'Provide json api field enhancers for text format fields.'
-core: 8.x
+core_version_requirement: ^8.9 || ^9
 package: 'Web services'
 dependencies:
   - jsonapi_extras:jsonapi_extras
